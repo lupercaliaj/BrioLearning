@@ -9,7 +9,7 @@
         "TestingAssemblyVersion": "0.2.1.8",
         "RepoUrl": "https://github.com/AsgardXIV/Brio",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 8,
         "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.1.8/Brio.zip",
         "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.1.8/Brio.zip",
         "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.1.8/Brio.zip",
